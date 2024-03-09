@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-compiler-1.4.1/widgets
+cargo:rustc-env=SLINT_WIDGETS_LIBRARY=/Users/august/Repos/rust/slint_test_app/target/debug/build/i-slint-compiler-045dd4eaf50617f1/out/included_library.rs

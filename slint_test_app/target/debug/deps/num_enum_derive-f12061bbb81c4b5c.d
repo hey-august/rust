@@ -1,0 +1,9 @@
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/libnum_enum_derive-f12061bbb81c4b5c.dylib: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/enum_attributes.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/parsing.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/utils.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/variant_attributes.rs
+
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/num_enum_derive-f12061bbb81c4b5c.d: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/enum_attributes.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/parsing.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/utils.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/variant_attributes.rs
+
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/lib.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/enum_attributes.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/parsing.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/utils.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.2/src/variant_attributes.rs:

@@ -1,0 +1,12 @@
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/libblock2-a4f2ced226e7916d.rmeta: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/block.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/concrete_block.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/debug.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/global.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/rc_block.rs
+
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/libblock2-a4f2ced226e7916d.rlib: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/block.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/concrete_block.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/debug.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/global.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/rc_block.rs
+
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/block2-a4f2ced226e7916d.d: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/block.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/concrete_block.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/debug.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/global.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/rc_block.rs
+
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/lib.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/block.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/concrete_block.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/debug.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/global.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/block2-0.4.0/src/rc_block.rs:

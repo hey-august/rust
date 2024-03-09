@@ -1,0 +1,10 @@
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/libcss_color_parser2-f8a2425cc126a01f.rmeta: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/mod.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/color.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/named_colors.rs
+
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/libcss_color_parser2-f8a2425cc126a01f.rlib: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/mod.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/color.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/named_colors.rs
+
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/css_color_parser2-f8a2425cc126a01f.d: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/mod.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/color.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/named_colors.rs
+
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/lib.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/mod.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/color.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/css-color-parser2-1.0.1/src/color/named_colors.rs:

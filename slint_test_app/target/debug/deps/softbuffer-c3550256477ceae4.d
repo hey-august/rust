@@ -1,0 +1,11 @@
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/libsoftbuffer-c3550256477ceae4.rmeta: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/cg.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/error.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/util.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/../README.md
+
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/libsoftbuffer-c3550256477ceae4.rlib: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/cg.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/error.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/util.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/../README.md
+
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/softbuffer-c3550256477ceae4.d: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/cg.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/error.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/util.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/../README.md
+
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/lib.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/cg.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/error.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/util.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/softbuffer-0.3.4/src/../README.md:

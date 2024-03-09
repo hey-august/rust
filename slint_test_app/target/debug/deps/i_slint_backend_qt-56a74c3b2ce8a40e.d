@@ -1,0 +1,10 @@
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/libi_slint_backend_qt-56a74c3b2ce8a40e.rmeta: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/accessible_generated.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/key_generated.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/README.md
+
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/libi_slint_backend_qt-56a74c3b2ce8a40e.rlib: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/accessible_generated.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/key_generated.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/README.md
+
+/Users/august/Repos/rust/slint_test_app/target/debug/deps/i_slint_backend_qt-56a74c3b2ce8a40e.d: /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/lib.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/accessible_generated.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/key_generated.rs /Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/README.md
+
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/lib.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/accessible_generated.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/key_generated.rs:
+/Users/august/.cargo/registry/src/index.crates.io-6f17d22bba15001f/i-slint-backend-qt-1.4.1/README.md:
