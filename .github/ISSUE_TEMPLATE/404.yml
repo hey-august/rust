@@ -8,6 +8,8 @@ body:
     attributes:
       value: |
         Thanks for helping us keep our documentation up to date!
+        > [!CAUTION]
+        > Authors should avoid change slugs (URLs) of docs whenever possible, and closely follow the instructions in the [wiki article on slugs](https://github.com/signalwire/signalwire-docs/wiki/Slug:-Best-practices#never-change-slugs) when a change is unavoidable.
   - type: input
     id: broken-link
     attributes:
