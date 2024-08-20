@@ -8,8 +8,6 @@ body:
     attributes:
       value: |
         Thanks for helping us keep our documentation up to date!
-        > [!CAUTION]
-        > Authors should avoid change slugs (URLs) of docs whenever possible.
   - type: input
     id: broken-link
     attributes:
