@@ -1,8 +1,8 @@
 name: 404
 description: Report a broken link.
 title: "[404] - "
-labels: null
-assignees: null
+assignees: 
+  - hey-august
 body: 
   - type: markdown
     attributes:
