@@ -1,7 +1,7 @@
 name: 404
 description: Report a broken link.
 title: "[404] - "
-labels: ["team/developer-experience", "type/chore"]
+labels: null
 assignees: null
 body: 
   - type: markdown
