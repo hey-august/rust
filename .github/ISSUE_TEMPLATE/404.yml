@@ -2,7 +2,7 @@ name: 404
 description: Report a broken link.
 title: "[404] - "
 labels: ["team/developer-experience", "type/chore"]
-assignees: " "
+assignees: null
 body: 
   - type: markdown
     attributes:
